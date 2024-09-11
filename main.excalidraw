@@ -1,0 +1,99 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "Fvyl4BdT8uG61JGDLc4Wh",
+      "type": "rectangle",
+      "x": 361.8055419921875,
+      "y": 179.86109924316406,
+      "width": 779.35107421875,
+      "height": 482.9535369873047,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1959033620,
+      "version": 19,
+      "versionNonce": 1361607980,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1726065196009,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "gybuQBX0bMdz0b0toq-8l",
+      "type": "rectangle",
+      "x": 537.3154907226562,
+      "y": 223.2964324951172,
+      "width": 400.87890625,
+      "height": 258.6479949951172,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 376923796,
+      "version": 15,
+      "versionNonce": 1373016980,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1726065197692,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "tdW2qcbZ1__SnfEZSMxVw",
+      "type": "diamond",
+      "x": 611.989990234375,
+      "y": 244.7590789794922,
+      "width": 255.04559326171875,
+      "height": 245.4535369873047,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 341068332,
+      "version": 44,
+      "versionNonce": 654138772,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1726065201212,
+      "link": null,
+      "locked": false
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
