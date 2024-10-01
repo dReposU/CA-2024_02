@@ -1,0 +1,10 @@
+Rama A depende de Rama B
+Rama G depende de Rama H
+Rama F depende de Rama D
+Rama B depende de Rama C
+Rama E depende de Rama F
+Rama C depende de Rama A
+Rama B depende de Rama D
+Rama H depende de Rama I
+Rama D depende de Rama E
+Rama I depende de Rama G
