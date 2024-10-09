@@ -6,7 +6,6 @@ graph G {
 
     A -- B [label="31"];
     A -- C [label="36"];
-    A -- D [label="37"];
     A -- G [label="43"];
     
     B -- C [label="37"];
