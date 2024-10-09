@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 135,
-      "versionNonce": 669808552,
+      "version": 136,
+      "versionNonce": 878744089,
       "isDeleted": false,
       "id": "Bdkxd0LkWKujc4JTTQVQ_",
       "fillStyle": "solid",
@@ -26,7 +26,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1728481168980,
+      "updated": 1728488651667,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -37,12 +37,12 @@
       "containerId": null,
       "originalText": "Daniel",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "text",
-      "version": 134,
-      "versionNonce": 1962292952,
+      "version": 135,
+      "versionNonce": 758904823,
       "isDeleted": false,
       "id": "_VJHRMncoa8m51ZzDx6dM",
       "fillStyle": "solid",
@@ -62,7 +62,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1728481168981,
+      "updated": 1728488651668,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -73,12 +73,12 @@
       "containerId": null,
       "originalText": "Alvaro",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "text",
-      "version": 106,
-      "versionNonce": 634340008,
+      "version": 107,
+      "versionNonce": 1318643449,
       "isDeleted": false,
       "id": "zHQ_IXMZZjujAlOV73Ube",
       "fillStyle": "solid",
@@ -107,7 +107,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1728481168983,
+      "updated": 1728488651670,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -118,7 +118,7 @@
       "containerId": null,
       "originalText": "Pregunta 06 de evaluaciones-cp-todas-las-practicas.pdf",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -255,8 +255,8 @@
     },
     {
       "type": "text",
-      "version": 72,
-      "versionNonce": 1404672984,
+      "version": 74,
+      "versionNonce": 613034265,
       "isDeleted": false,
       "id": "yAMJOjaAdOwGnfUIbHKNn",
       "fillStyle": "solid",
@@ -267,7 +267,7 @@
       "angle": 0,
       "x": 167.95233321662943,
       "y": 242.8690185546876,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#1971c2",
       "backgroundColor": "transparent",
       "width": 82.15992736816406,
       "height": 25,
@@ -281,7 +281,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1728481168983,
+      "updated": 1728488655655,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -292,12 +292,12 @@
       "containerId": null,
       "originalText": "Con Prim",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 119,
-      "versionNonce": 320908712,
+      "version": 121,
+      "versionNonce": 849573593,
       "isDeleted": false,
       "id": "bHM-7cQznniY_G_SorY7M",
       "fillStyle": "solid",
@@ -308,7 +308,7 @@
       "angle": 0,
       "x": 711.1432173980609,
       "y": 240.35790143694214,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#1971c2",
       "backgroundColor": "transparent",
       "width": 114.71990966796875,
       "height": 25,
@@ -322,7 +322,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1728481168984,
+      "updated": 1728488657765,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -333,7 +333,7 @@
       "containerId": null,
       "originalText": "Con Kruskal",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -371,8 +371,8 @@
     },
     {
       "type": "text",
-      "version": 65,
-      "versionNonce": 784883928,
+      "version": 66,
+      "versionNonce": 1639556663,
       "isDeleted": false,
       "id": "dmecom3RP4eSZhNh0ehgV",
       "fillStyle": "solid",
@@ -392,7 +392,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1728481168986,
+      "updated": 1728488651672,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -403,12 +403,12 @@
       "containerId": null,
       "originalText": "Pregunta 07 de \nevaluaciones-cp-todas\n-las-practicas.pdf",
       "lineHeight": 1.25,
-      "baseline": 68
+      "baseline": 67
     },
     {
       "type": "text",
-      "version": 136,
-      "versionNonce": 1225570472,
+      "version": 137,
+      "versionNonce": 1824799929,
       "isDeleted": false,
       "id": "MGoETh4OaeRk63UQEpbAO",
       "fillStyle": "solid",
@@ -428,7 +428,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1728481168987,
+      "updated": 1728488651673,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -439,12 +439,12 @@
       "containerId": null,
       "originalText": "Blanco no empezado,       completado y         en proceso",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 78,
-      "versionNonce": 632718808,
+      "version": 79,
+      "versionNonce": 1580582743,
       "isDeleted": false,
       "id": "ubWawa0fFyGKn1q-EuN2l",
       "fillStyle": "solid",
@@ -464,7 +464,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1728481168987,
+      "updated": 1728488651673,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -475,12 +475,12 @@
       "containerId": null,
       "originalText": "verde",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 95,
-      "versionNonce": 457139112,
+      "version": 96,
+      "versionNonce": 510541209,
       "isDeleted": false,
       "id": "gNj-1zxvi2_ZVXuYmhO5t",
       "fillStyle": "solid",
@@ -500,7 +500,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1728481168987,
+      "updated": 1728488651674,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -511,7 +511,7 @@
       "containerId": null,
       "originalText": "celeste",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -601,8 +601,8 @@
     },
     {
       "type": "text",
-      "version": 200,
-      "versionNonce": 1167592152,
+      "version": 201,
+      "versionNonce": 1959838839,
       "isDeleted": false,
       "id": "goj-bS-f0AxySu3ARgyjg",
       "fillStyle": "solid",
@@ -622,7 +622,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1728481168988,
+      "updated": 1728488651676,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -633,7 +633,7 @@
       "containerId": null,
       "originalText": "Ejemplo de solución manual:",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "image",
@@ -670,8 +670,8 @@
     },
     {
       "type": "text",
-      "version": 57,
-      "versionNonce": 132427432,
+      "version": 58,
+      "versionNonce": 283452025,
       "isDeleted": false,
       "id": "CfaFkqHgq__eqmqTH5Bht",
       "fillStyle": "solid",
@@ -691,7 +691,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1728481168989,
+      "updated": 1728488651676,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -702,12 +702,12 @@
       "containerId": null,
       "originalText": "Puño y letra\nsolo para \nel examen",
       "lineHeight": 1.25,
-      "baseline": 68
+      "baseline": 67
     },
     {
       "type": "text",
-      "version": 136,
-      "versionNonce": 1493233624,
+      "version": 137,
+      "versionNonce": 894377367,
       "isDeleted": false,
       "id": "d38qGZ8mDn8KbFBjsePzj",
       "fillStyle": "solid",
@@ -727,7 +727,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1728481168993,
+      "updated": 1728488651679,
       "link": null,
       "locked": false,
       "fontSize": 7.349905370440542,
@@ -742,8 +742,8 @@
     },
     {
       "type": "text",
-      "version": 116,
-      "versionNonce": 1739102632,
+      "version": 117,
+      "versionNonce": 1626106713,
       "isDeleted": false,
       "id": "8Lioudz2b0fQZNRMIbKBU",
       "fillStyle": "solid",
@@ -763,7 +763,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1728481168996,
+      "updated": 1728488651683,
       "link": null,
       "locked": false,
       "fontSize": 7.6992187500000036,
@@ -855,8 +855,8 @@
     },
     {
       "type": "text",
-      "version": 109,
-      "versionNonce": 939865304,
+      "version": 110,
+      "versionNonce": 1122325175,
       "isDeleted": false,
       "id": "OdArHYozlFRhkU0DtKgvu",
       "fillStyle": "solid",
@@ -876,7 +876,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1728481169002,
+      "updated": 1728488651687,
       "link": null,
       "locked": false,
       "fontSize": 14.907325542504854,
