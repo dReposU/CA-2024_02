@@ -1,0 +1,39 @@
+graph G {
+    rankdir=LR
+    bgcolor = black
+    node[color=white fontcolor=white width=.6]
+    edge[color=white fontcolor = white]
+
+    A -- B [label="31", color =red,fontcolor=red];
+    A -- C [label="36"];
+    A -- G [label="43"];
+    
+    B -- C [label="37"];
+    B -- D [label="35", color = red, fontcolor = red]
+    B -- E [label="38"];
+    B -- F [label="44"];
+    B -- G [label="40"];
+    
+    C -- D [label="33", color = red, fontcolor = red];
+    C -- E [label="53"];
+    C -- H [label="58"];
+    
+    D -- E [label="42"];
+    
+    E -- F [label="48"];
+    E -- H [label="41"];
+    
+    F -- G [label="39"];
+    F -- H [label="46"];
+    
+    G -- H [label="44"];
+
+    A[color=red,fontcolor=red]
+    B[color=red,fontcolor=red]
+    C[color=red,fontcolor=red]
+    D[color=red,fontcolor=red]
+    
+   
+    
+   
+}
