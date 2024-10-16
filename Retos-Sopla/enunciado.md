@@ -1,0 +1,4 @@
+Tenemos una cadena de tiendas, donde cada tienda tiene un nombre y una dirección.Sucede que cuando un cliente llega a una tienda, hace su pedido, y este pedido no está, el vendedor lo solicita de otra tienda T.  Para llegar a la tienda T puede haber varios caminos. Los caminos entre tiendas vecinas conectadas tienen valores como la distancia y el costo en el que se incurre trasladarse entre estas.
+•1. Hallar el árbol de recubrimiento mínimo en función del costo
+•2. Hallar el árbol de recubrimiento mínimo en función de la distancia
+•3. Hallar el costo total del árbol de recubrimiento mínimo en funcion del costo o dstancia
