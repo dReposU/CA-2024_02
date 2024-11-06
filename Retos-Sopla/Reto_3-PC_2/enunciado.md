@@ -1,0 +1,1 @@
+Si se tiene la siguiente denominación de monedas {A, B, C, D} ordenadas de mayor a menor y se requiere dar un vuelto (cambio) de N soles. ¿Cuál es la mínima cantidad de monedas en total que hay que dar? ¿Cuántas de cada definición?
