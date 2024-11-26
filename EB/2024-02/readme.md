@@ -1,0 +1,1 @@
+Solamente se debe considerar los enunciados como información valiosa. 
