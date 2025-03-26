@@ -1,16 +1,16 @@
-![alt text](assets\en1.png)
-![alt text](assets\en2.png)
+![alt text](assets/en1.png)
+![alt text](assets/en2.png)
 
 DESCRIPCIÓN
 Podrá iniciar el Examen Final con una tolerancia de 15 minutos. A partir del minuto dieciséis(16) de iniciado el examen, no podrá rendir esta evaluación.
 En caso de tener alguna duda acerca del enunciado de la pregunta, puede escribirle al profesor de su sección.
-IMPORTANTE: Antes de contactar, verifique quien es el profesor asignado a su sección (sólo el asignado a su sección le responderá)
-Profesor por sección:     
-CC41 | WS6D | WX74 | Abraham Sopla Maslucán | pcsiasop@upc.edu.pe
-WV62 | Cesar Enrique Salas Arbaiza | PCSICSAL@UPC.EDU.PE
-CC42 | Luis Martin Canaval Sánchez | PCSILCAN@upc.edu.pe
-CC43 | CC45 | WS6C | John Edward Arias Orihuela | PCCCJARI@UPC.EDU.PE
-WX61 | WX72 | Robert Ernesto Zubieta Cárdenas | pcsirzub@upc.edu.pe
+IMPORTANTE: Antes de contactar, verifique quien es el profesor asignado a su sección (sólo el asignado a su sección le responderá)  
+Profesor por sección:       
+CC41 | WS6D | WX74 | Abraham Sopla Maslucán | pcsiasop@upc.edu.pe  
+WV62 | Cesar Enrique Salas Arbaiza | PCSICSAL@UPC.EDU.PE  
+CC42 | Luis Martin Canaval Sánchez | PCSILCAN@upc.edu.pe  
+CC43 | CC45 | WS6C | John Edward Arias Orihuela | PCCCJARI@UPC.EDU.PE  
+WX61 | WX72 | Robert Ernesto Zubieta Cárdenas | pcsirzub@upc.edu.pe  
  
  
 INSTRUCCIONES
