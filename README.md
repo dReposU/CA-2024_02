@@ -2,7 +2,7 @@
 
 [Repo recomendado](https://github.com/aleiva17/Algorithmic-Complexity-2023-02/tree/master)  
 [Google drive con material](https://drive.google.com/drive/u/2/folders/1u6fC4E1rJDzLPK8ro2129MkdPxTqTX3_). Otros [repos](https://drive.google.com/drive/u/2/folders/1ECKo5-Dl9BLhiqbHdF2EBHTYEP-p8FcG).  
-Instalen las extensiones de [Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) y [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) para un mejor uso del repo.
+Instalen las extensiones de [Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor), [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) y [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) para un mejor uso del repo.
   
 # Sources
 
